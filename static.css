@@ -48,6 +48,12 @@ body {
     width: 50px;
 }
 
+.Inver
+{
+    transform: rotate(270deg);
+    width: 55px;
+}
+
 #dernieres-nouvelles {
     position: absolute;
     bottom: 0;
