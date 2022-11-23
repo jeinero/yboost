@@ -1,0 +1,41 @@
+#text {
+    color: black;
+    font-size: 200px;
+    font-family: 'Prompt';
+}
+
+#window {
+    height: 150px;
+    width: 40%;
+    border-radius: 50px;
+    background-color: transparent;
+    border-color: black;
+    border: solid;
+    display: inline-block;
+    background-image: url(https://imgs.search.brave.com/94NdF7agcy-axXpoqL9bh_XtNLABK-EYR7wVDkZ1h50/rs:fit:1200:675:1/g:ce/aHR0cHM6Ly9kZWF2/aXRhLmZyL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE5LzA5L3Nh/bG9uLW1vZGVybmUt/ZW4tcGllcnJlcy1l/dC1ib2lzLmpwZw);
+}
+
+#title {
+    position: absolute;
+    display: inline-block;
+    left: 25%;
+}
+
+body {
+    background-color: #dcdbdb;
+}
+
+#back {
+    color: white;
+    font-family: 'Prompt';
+    font-size: 375px;
+}
+
+#divback {
+    position: absolute;
+    height: 800px;
+    width: 2000px;
+    bottom: 0%;
+    left: -5%;
+    z-index: -1;
+}
