@@ -19,6 +19,7 @@
     position: absolute;
     display: inline-block;
     left: 25%;
+    top: 0;
 }
 
 body {
@@ -45,4 +46,23 @@ body {
     float: right;
     margin: 8px;
     width: 50px;
+}
+
+#dernieres-nouvelles {
+    position: absolute;
+    bottom: 0;
+}
+
+#fleche {
+    position: absolute;
+    bottom: 0;
+    left: 90%;
+}
+
+#imagedubas {
+    position: absolute;
+    /* height: 100%; */
+    width: 99%;
+    bottom: -1000px;
+    z-index: -1;
 }
